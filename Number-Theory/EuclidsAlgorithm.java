@@ -1,4 +1,3 @@
-package number;
 
 public class EuclidsAlgorithm {
     
